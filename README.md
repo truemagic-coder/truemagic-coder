@@ -36,7 +36,7 @@ Solana Agent is a Python framework for building multi-agent systems that can rea
 - 🔊 Streaming text/audio + guardrails
 
 **Quick start:**
-- Project README: [`solana_agent/README.md`](https://github.com/truemagic-coder/solana-agent/README.md)
+- Project: [`solana-agent`](https://github.com/truemagic-coder/solana-agent)
 - Site: [https://solana-agent.com](https://solana-agent.com)
 
 ---
