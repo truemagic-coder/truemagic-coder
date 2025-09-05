@@ -55,7 +55,7 @@ Solana Agent is a Python framework for building multi-agent systems that can rea
 **Senior Software Developer, Vanbex Group** _(2018–2019)_
 - Crypto-tax SaaS (Next.js, Go)
 
-**Software Developer, CA Technologies** _(2016–2017)_
+**Senior Software Developer, CA Technologies** _(2016–2017)_
 - Dev analytics dashboard (React), Go CLI for API discoverability
 
 **Senior Software Developer, Lendesk** _(2013–2016)_
