@@ -76,8 +76,7 @@ Solana Agent is a Python framework for building multi-agent systems that can rea
 
 ## 🌟 What I’m Exploring
 
-- Expert AI systems
-- Self-learning AI systems
+- Building Agentic IQ 
 
 ---
 
