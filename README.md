@@ -6,7 +6,7 @@ Hi, I’m Bevan — a Staff AI Developer focused on building practical AI system
 
 ## 🌐 Founder & CTO at StableThread Inc.
 
-- 🧩 **Built Solana Agent** — Python framework for Solana-native AI agents with routing, tools, memory, knowledge base, and streaming -> [Visit](https://solana-agent.com)
+- 🧩 **Built Solana Agent** — Python framework for Solana-native AI agents -> [Visit](https://solana-agent.com)
 - 🟪 **Shipped WalletBubbles** — Solana NFT marketplace with an AI agent curator -> [Visit](https://walletbubbles.com)
 - 🐟 **Shipped Nemo Agent** — open-source Python coding agent -> [Visit](https://nemo-agent.com)
 - 💬 **Shipped CometHeart** — mobile voice AI companion (iOS/Android) -> [Visit](https://cometheart.com)
