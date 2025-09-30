@@ -15,7 +15,7 @@ Hi, I’m Bevan — a Staff AI Developer focused on building practical AI system
 
 ## 🧰 Core Stack
 
-- 🤖 **AI:** OpenAI, Zep, Pinecone, Python
+- 🤖 **AI:** OpenAI, Vector Databases, Python
 - ⛓️ **Blockchain:** Solana (Anchor, APIs, RPCs, Metaplex)
 - 🖥️ **Full-Stack:** Python, TypeScript, Rust, Go, FastAPI, React, Next.js
 - 📱 **Mobile:** Expo (iOS/Android)
