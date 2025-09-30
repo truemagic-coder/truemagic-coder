@@ -31,8 +31,8 @@ Solana Agent is a Python framework for building multi-agent systems that can rea
 
 **Features:**
 - 🧠 Routing + multi-agent orchestration
-- 🧩 Tooling + workflows (Solana, Zapier, search, custom tools)
-- 🗃️ Memory (Mongo/Zep) + Knowledge Base (Mongo + Pinecone + OpenAI + Cohere rerank)
+- 🧩 Tooling + workflows
+- 🗃️ Memory + Context + Knowledge Base
 - 🔊 Streaming text/audio + guardrails
 
 **Quick start:**
@@ -76,8 +76,7 @@ Solana Agent is a Python framework for building multi-agent systems that can rea
 
 ## 🌟 What I’m Exploring
 
-- AI Inbound Lead Generation SaaS platform
-- AI Education SaaS platform
+- Expert AI systems
 - Self-learning AI systems
 
 ---
