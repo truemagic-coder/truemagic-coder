@@ -7,7 +7,7 @@ Hi, I'm Bevan — a Staff AI Developer pioneering **Autonomous Super Intelligenc
 ## 🧬 Founder & CTO at StableThread Inc.
 
 ### **CyberChipped - ASI Drug Discovery Platform** 🔬
-**The flagship project** — enabling drug discovery for all Diseases through autonomous AI research.
+**The flagship project** — enabling drug discovery for all diseases through autonomous AI research.
 
 - 🧬 **Built CyberChipped** — ASI-powered platform analyzing proteins and diseases with autonomous research capabilities → [cyberchipped.com](https://cyberchipped.com)
 - 🤖 **ASI Framework** — Pipeline for ASI analysis, ESM, DiffDock, Fpocket for end-to-end drug discovery
