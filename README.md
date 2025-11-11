@@ -39,7 +39,7 @@ Hi, I'm Bevan — a Staff AI Developer pioneering **Autonomous Super Intelligenc
 - 🗄️ **Data:** MongoDB (at scale), Redis, vector databases
 
 ### **AI & Machine Learning**
-- 🤖 **Frameworks:** OpenAI, Anthropic, Open Models (Llama, Mistral)
+- 🤖 **Frameworks:** OpenAI, Anthropic, Open Models (Qwen, Gemma)
 - 🧠 **Agent Systems:** Multi-agent orchestration, routing, memory, knowledge bases
 - 🔊 **Streaming:** Real-time text/audio, guardrails, context management
 
