@@ -53,7 +53,7 @@ Hi, I'm Bevan — a Staff AI Developer pioneering **Autonomous Super Intelligenc
 ## 🧭 Experience
 
 **Founder & CTO, StableThread Inc.** _(2023–Present)_
-- **CyberChipped:** Built ASI drug discovery platform from concept to production in 9 months
+- **CyberChipped:** Built ASI drug discovery platform from concept to production in 2 months
 - **Impact:** Democratizing drug discovery research, making cutting-edge disease research accessible to academics worldwide
 - **Innovation:** First ASI system combining ESM and DiffDock for autonomous therapeutic research
 - **Additional launches:** Solana Agent AI agent framework, WalletBubbles NFT marketplace, Nemo coding agent, CometHeart AI companion
